@@ -6,6 +6,15 @@ A semantic search engine built with Streamlit and Sentence Transformers that hel
 
 This project implements an intelligent course recommendation system that uses semantic similarity to match user queries with relevant courses. Unlike traditional keyword-based search, this system understands the context and meaning of queries to provide more accurate course recommendations.
 
+## 🌐 Live Demo
+
+🚀 **Try the live application**: [Smart Search on Hugging Face](https://huggingface.co/spaces/Bhakti-Ayarekar/Smart-Search)
+
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Bhakti-Ayarekar/Smart-Search)
+
+Experience the course search engine in action without any setup required!
+
+
 ## ✨ Features
 
 - **Semantic Search**: Uses pre-trained sentence transformers to understand query context
