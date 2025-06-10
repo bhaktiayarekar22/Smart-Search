@@ -8,7 +8,7 @@ This project implements an intelligent course recommendation system that uses se
 
 ## 🌐 Live Demo
 
-🚀 **Try the live application**: [Smart Search on Hugging Face](https://huggingface.co/spaces/Bhakti-Ayarekar/Smart-Search)
+🚀 **Try the live application**: [Smart Search on Hugging Face](https://huggingface.co/spaces/Bhakti-Ayarekar/Smart_Search)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Bhakti-Ayarekar/Smart-Search)
 
